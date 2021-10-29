@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![lvshuang's github stats](https://github-readme-stats.vercel.app/api?username=lvshuang&theme=radical&count_private=true&show_icons=true) 
+![lvshuang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lvshuang&langs_count=8&layout=compact&count_private=true&theme=radical)
+
 <!--
 **lvshuang/lvshuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
